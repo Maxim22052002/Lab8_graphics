@@ -1,0 +1,9 @@
+C:\Users\Максим\source\repos\GameTank\GameTank\bin\Debug\GameTank.exe.config
+C:\Users\Максим\source\repos\GameTank\GameTank\bin\Debug\GameTank.exe
+C:\Users\Максим\source\repos\GameTank\GameTank\bin\Debug\GameTank.pdb
+C:\Users\Максим\source\repos\GameTank\GameTank\obj\Debug\GameTank.csprojAssemblyReference.cache
+C:\Users\Максим\source\repos\GameTank\GameTank\obj\Debug\GameTank.Form1.resources
+C:\Users\Максим\source\repos\GameTank\GameTank\obj\Debug\GameTank.Properties.Resources.resources
+C:\Users\Максим\source\repos\GameTank\GameTank\obj\Debug\GameTank.csproj.GenerateResource.cache
+C:\Users\Максим\source\repos\GameTank\GameTank\obj\Debug\GameTank.exe
+C:\Users\Максим\source\repos\GameTank\GameTank\obj\Debug\GameTank.pdb
